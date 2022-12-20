@@ -1,13 +1,10 @@
-
-
-
-
+```python
 
 class deepak:
     def __init__():        
         age = 16
         nationality = "India"
-        languages = ["Tamil", "English",Hindi]
+        languages = ["Tamil", "English","Hindi"]
 
         programing_languages = ["Python"]
         projects = [ "Disboard invite scraper", "Discord token generator"]
@@ -18,3 +15,4 @@ class deepak:
             "server": "discord.gg/bxby"
         }
         
+```
