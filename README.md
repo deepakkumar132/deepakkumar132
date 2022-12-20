@@ -6,7 +6,7 @@ class deepak:
         nationality = "India"
         languages = ["Tamil", "English","Hindi"]
 
-        programing_languages = ["Python"]
+        programing_languages = ["Python","Html"]
         projects = [ "Disboard invite scraper", "Discord token generator"]
 
         website = "deepakkumar132.github.io"
