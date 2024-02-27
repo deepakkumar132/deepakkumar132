@@ -9,10 +9,10 @@ class deepak:
         programing_languages = ["Python","Html"]
         projects = [ "Disboard invite scraper", "Discord token generator"]
 
-        website = "deepakkumar132.github.io"
+        website = "http://deepak.me.uk/"
         discord = {
-            "username": "Deepak_.#6969",
-            "server": "discord.gg/bxby"
+            "username": "deepak.ai",
+            "server": "discord.gg/recaptcha"
         }
         
 ```
