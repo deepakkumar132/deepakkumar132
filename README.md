@@ -1,18 +1,19 @@
 ```python
 
-class deepak:
-    def __init__():        
-        age = 16
-        nationality = "India"
-        languages = ["Tamil", "English","Hindi"]
+public class Deepak {
+    public void init() {
+        int age = 16;
+        String nationality = "India";
+        String[] languages = {"Tamil", "English", "Hindi"};
 
-        programing_languages = ["Python","Html"]
-        projects = [ "Disboard invite scraper", "Discord token generator"]
+        String[] programmingLanguages = {"Python", "HTML"};
+        String[] projects = {"Disboard invite scraper", "Discord token generator"};
 
-        website = "http://deepak.me.uk/"
-        discord = {
-            "username": "deepak.ai",
-            "server": "discord.gg/recaptcha"
-        }
+        String website = "http://deepak.me.uk/";
+        Map<String, String> discord = new HashMap<>();
+        discord.put("username", "deepak.ai");
+        discord.put("server", "discord.gg/recaptcha");
+    }
+}
         
 ```
